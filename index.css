@@ -16,7 +16,7 @@ body {
 .title {
     text-align: center;
     margin: 20px;
-    color: #d6d5ac;
+    color: #e0120f;
 }
 
 label {
@@ -38,7 +38,7 @@ input[type="text"]{
 .box {
     height:100px;
     width: 100%;
-    background-color: #c6d5ac;
+    background-color: #e0120f;
     margin-bottom: 25px;
 }
 
@@ -49,7 +49,7 @@ input[type="text"]{
 .toggle {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 20px
 }
 
 .toggle-btn {
