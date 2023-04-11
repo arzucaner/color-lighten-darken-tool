@@ -8,4 +8,5 @@ The tool was developed as part of the Scrimba education program, which provided 
 
 ---
 
-![Color Lighten Darken Tool](https://user-images.githubusercontent.com/108270415/231292627-bbede690-19af-46e1-8cda-1add3ad319ef.png)
+
+![Color Lightener and Darkener Tool](https://user-images.githubusercontent.com/108270415/231293712-40024788-f281-47ad-8f6d-d34b996bc5ab.png)
